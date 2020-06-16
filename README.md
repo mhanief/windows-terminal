@@ -1,7 +1,7 @@
 # windows-terminal
 Setup up Windows Terminal to launch WSL as default and start with WSL home directory
 
-Author: Hanief Harun
+Author: Hanief Harun \
 Descriptions: Custom json file to launch your Windows Terminal with WSL as default terminal.
 
 Steps:
