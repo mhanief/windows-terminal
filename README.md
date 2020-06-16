@@ -10,6 +10,7 @@ Steps:
 3. After install Ubuntu, go ahead configure it. Add user etc.
 4. Second, install Windows Terminal.
 5. Step: Search "Windows Terminal" in the Microsoft store, and install.
-6. Open Windows Terminal and click setting, open your "setting.json" with your fav text editor.
-7. Backup this file before you proceed with the changes. (if something happend just restore the file)
-8. Paste custom json code, save. 
+6. Open Windows Terminal and click "settings", open your "settings.json" with your fav text editor.
+7. Backup the file before proceed with any changes. (if something happend just restore the file)
+8. Paste custom json code.
+9. Save. 
